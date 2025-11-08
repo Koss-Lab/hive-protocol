@@ -1,0 +1,6218 @@
+[
+  {
+    "id": 1,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 2,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 3,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 4,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 5,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 6,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 7,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 8,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 9,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 10,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 11,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 12,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 13,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 14,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 15,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 16,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 17,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 18,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 19,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 20,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 21,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 22,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 23,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 24,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 25,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 26,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 27,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 28,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 29,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 30,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 31,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 32,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 33,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 34,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 35,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 36,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 37,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 38,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 39,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 40,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 41,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 42,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 43,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 44,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 45,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 46,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 47,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 48,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 49,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 50,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 51,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 52,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 53,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 54,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 55,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 56,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 57,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 58,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 59,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 60,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 61,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 62,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 63,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 64,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 65,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 66,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 67,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 68,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 69,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 70,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 71,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 72,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 73,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 74,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 75,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 76,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 77,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 78,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 79,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 80,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 81,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 82,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 83,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 84,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 85,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 86,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 87,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 88,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 89,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 90,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 91,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 92,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 93,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 94,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 95,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 96,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 97,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 98,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 99,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 100,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 101,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 102,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 103,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 104,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 105,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 106,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 107,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 108,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 109,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 110,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 111,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 112,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 113,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 114,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 115,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 116,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 117,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 118,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 119,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 120,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 121,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 122,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 123,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 124,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 125,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 126,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 127,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 128,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 129,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 130,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 131,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 132,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 133,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 134,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 135,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 136,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 137,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 138,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 139,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 140,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 141,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 142,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 143,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 144,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 145,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 146,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 147,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 148,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 149,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 150,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 151,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 152,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 153,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 154,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 155,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 156,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 157,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 158,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 159,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 160,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 161,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 162,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 163,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 164,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 165,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 166,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 167,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 168,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 169,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 170,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 171,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 172,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 173,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 174,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 175,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 176,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 177,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 178,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 179,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 180,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 181,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 182,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 183,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 184,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 185,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 186,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 187,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 188,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 189,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 190,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 191,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 192,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 193,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 194,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 195,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 196,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 197,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 198,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 199,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 200,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 201,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 202,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 203,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 204,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 205,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 206,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 207,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 208,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 209,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 210,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 211,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 212,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 213,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 214,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 215,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 216,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 217,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 218,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 219,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 220,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 221,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 222,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 223,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 224,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 225,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 226,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 227,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 228,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 229,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 230,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 231,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 232,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 233,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 234,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 235,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 236,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 237,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 238,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 239,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 240,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 241,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 242,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 243,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 244,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 245,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 246,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 247,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 248,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 249,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 250,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 251,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 252,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 253,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 254,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 255,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 256,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 257,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 258,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 259,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 260,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 261,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 262,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 263,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 264,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 265,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 266,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 267,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 268,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 269,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 270,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 271,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 272,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 273,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 274,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 275,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 276,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 277,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 278,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 279,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 280,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 281,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 282,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 283,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 284,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 285,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 286,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 287,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 288,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 289,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 290,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 291,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 292,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 293,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 294,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 295,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 296,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 297,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 298,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 299,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 300,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 301,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 302,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 303,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 304,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 305,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 306,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 307,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 308,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 309,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 310,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 311,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 312,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 313,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 314,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 315,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 316,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 317,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 318,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 319,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 320,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 321,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 322,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 323,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 324,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 325,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 326,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 327,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 328,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 329,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 330,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 331,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 332,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 333,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 334,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 335,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 336,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 337,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 338,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 339,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 340,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 341,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 342,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 343,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 344,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 345,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 346,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 347,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 348,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 349,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 350,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 351,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 352,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 353,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 354,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 355,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 356,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 357,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 358,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 359,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 360,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 361,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 362,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 363,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 364,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 365,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 366,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 367,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 368,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 369,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 370,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 371,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 372,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 373,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 374,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 375,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 376,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 377,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 378,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 379,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 380,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 381,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 382,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 383,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 384,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 385,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 386,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 387,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 388,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 389,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 390,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 391,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 392,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 393,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 394,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 395,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 396,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 397,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 398,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 399,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 400,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 401,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 402,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 403,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 404,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 405,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 406,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 407,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 408,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 409,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 410,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 411,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 412,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 413,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 414,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 415,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 416,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 417,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 418,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 419,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 420,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 421,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 422,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 423,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 424,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 425,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 426,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 427,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 428,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 429,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 430,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 431,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 432,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 433,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 434,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 435,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 436,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 437,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 438,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 439,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 440,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 441,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 442,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 443,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 444,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 445,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 446,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 447,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 448,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 449,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 450,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 451,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 452,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 453,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 454,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 455,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 456,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 457,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 458,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 459,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 460,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 461,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 462,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 463,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 464,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 465,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 466,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 467,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 468,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 469,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 470,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 471,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 472,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 473,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 474,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 475,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 476,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 477,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 478,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 479,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 480,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 481,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 482,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 483,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 484,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 485,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 486,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 487,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 488,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 489,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 490,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 491,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 492,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 493,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 494,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 495,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 496,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 497,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 498,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 499,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 500,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 501,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 502,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 503,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 504,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 505,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 506,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 507,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 508,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 509,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 510,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 511,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 512,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 513,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 514,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 515,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 516,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 517,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 518,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 519,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 520,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 521,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 522,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 523,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 524,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 525,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 526,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 527,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 528,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 529,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 530,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 531,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 532,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 533,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 534,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 535,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 536,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 537,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 538,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 539,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 540,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 541,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 542,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 543,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 544,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 545,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 546,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 547,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 548,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 549,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 550,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 551,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 552,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 553,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 554,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 555,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 556,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 557,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 558,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 559,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 560,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 561,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 562,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 563,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 564,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 565,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 566,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 567,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 568,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 569,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 570,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 571,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 572,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 573,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 574,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 575,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 576,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 577,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 578,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 579,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 580,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 581,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 582,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 583,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 584,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 585,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 586,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 587,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 588,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 589,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 590,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 591,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 592,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 593,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 594,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 595,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 596,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 597,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 598,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 599,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 600,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 601,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 602,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 603,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 604,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 605,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 606,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 607,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 608,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 609,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 610,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 611,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 612,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 613,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 614,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 615,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 616,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 617,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 618,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 619,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 620,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 621,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 622,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 623,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 624,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 625,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 626,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 627,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 628,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 629,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 630,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Epic"
+  },
+  {
+    "id": 631,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 632,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 633,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 634,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 635,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 636,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 637,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 638,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 639,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 640,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 641,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 642,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 643,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Epic"
+  },
+  {
+    "id": 644,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 645,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 646,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 647,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 648,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 649,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 650,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 651,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 652,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 653,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 654,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 655,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 656,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 657,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 658,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 659,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 660,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 661,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 662,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 663,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 664,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 665,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 666,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 667,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 668,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 669,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 670,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 671,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Epic"
+  },
+  {
+    "id": 672,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 673,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 674,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 675,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 676,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 677,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 678,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 679,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 680,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 681,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 682,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 683,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 684,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 685,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 686,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 687,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 688,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 689,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 690,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 691,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 692,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 693,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 694,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 695,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 696,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 697,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 698,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 699,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 700,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 701,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 702,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 703,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 704,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 705,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 706,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 707,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 708,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 709,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 710,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 711,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 712,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 713,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 714,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 715,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 716,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 717,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 718,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Legendary"
+  },
+  {
+    "id": 719,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 720,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 721,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 722,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 723,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 724,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 725,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 726,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 727,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 728,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 729,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 730,
+    "faction": "Pyromiels",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 731,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 732,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 733,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 734,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 735,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 736,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 737,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 738,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 739,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 740,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 741,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 742,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 743,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 744,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 745,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 746,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 747,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 748,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Rare"
+  },
+  {
+    "id": 749,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 750,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Honey Chrome",
+    "rarity": "Rare"
+  },
+  {
+    "id": 751,
+    "faction": "Floradrones",
+    "background": "Neon Grid",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 752,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 753,
+    "faction": "Nectarions",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 754,
+    "faction": "Pyromiels",
+    "background": "Cyber Hive",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 755,
+    "faction": "Voltabees",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 756,
+    "faction": "Nectarions",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 757,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Crystalline",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 758,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 759,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 760,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 761,
+    "faction": "Nectarions",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  },
+  {
+    "id": 762,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 763,
+    "faction": "Floradrones",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 764,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 765,
+    "faction": "Floradrones",
+    "background": "Cyber Hive",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 766,
+    "faction": "Pyromiels",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Dark Titanium",
+    "rarity": "Common"
+  },
+  {
+    "id": 767,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Flame",
+    "armor": "Dark Titanium",
+    "rarity": "Epic"
+  },
+  {
+    "id": 768,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Honey Chrome",
+    "rarity": "Common"
+  },
+  {
+    "id": 769,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Dark Titanium",
+    "rarity": "Rare"
+  },
+  {
+    "id": 770,
+    "faction": "Nectarions",
+    "background": "Neon Grid",
+    "wings": "Crystalline",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 771,
+    "faction": "Voltabees",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 772,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 773,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Flame",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 774,
+    "faction": "Voltabees",
+    "background": "Jungle Bio",
+    "wings": "Plasma",
+    "armor": "Floral Bio-suit",
+    "rarity": "Common"
+  },
+  {
+    "id": 775,
+    "faction": "Voltabees",
+    "background": "Neon Grid",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 776,
+    "faction": "Floradrones",
+    "background": "Plasma Void",
+    "wings": "Plasma",
+    "armor": "Plasma Shell",
+    "rarity": "Common"
+  },
+  {
+    "id": 777,
+    "faction": "Pyromiels",
+    "background": "Jungle Bio",
+    "wings": "Holographic",
+    "armor": "Plasma Shell",
+    "rarity": "Rare"
+  }
+]
