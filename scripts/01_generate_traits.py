@@ -3,7 +3,7 @@ random.seed(77)
 
 N = 777
 
-factions = ["Voltabees","Pyromiels","Floradrones","Nectarions"]
+factions = ["Voltabees","PyrHoney","Floradrones","Nectarions"]
 backgrounds = ["Neon Grid","Jungle Bio","Cyber Hive","Plasma Void"]
 wings = ["Plasma","Holographic","Crystalline","Flame"]
 armor = ["Honey Chrome","Dark Titanium","Floral Bio-suit","Plasma Shell"]
